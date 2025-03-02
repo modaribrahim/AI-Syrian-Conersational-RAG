@@ -46,7 +46,6 @@ AI_AGENT_FINAL_VERSION/
 │   │── utils.py
 │── docs/
 │   │── report_doc.pdf
-│── .env
 │── requirements.txt
 │── readme.md
 │── LICENCE 
