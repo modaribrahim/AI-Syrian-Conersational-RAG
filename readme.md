@@ -90,7 +90,7 @@ This will start the FastAPI server, allowing backend requests to be handled.
 In another terminal window, navigate to the `AI_AGENT_FINAL_VERSION/user_interface` directory and run the Streamlit user interface with:
 
 ```bash
-python3 -m streamlit run AI_Agent_final_version/user_interface/user_interface.py
+python -m streamlit run AI_Agent_final_version/user_interface/user_interface.py
 
 ```
 
