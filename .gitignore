@@ -8,3 +8,4 @@ echo ".vscode/" >> .gitignore
 echo ".idea/" >> .gitignore
 echo "*.log" >> .gitignore
 echo "*.sqlite" >> .gitignore
+echo "*.env" >> .gitignore
